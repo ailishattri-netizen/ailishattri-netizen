@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on e-cart project<br> I’m looking to collaborate on AIML companies<br> I’m looking for help with the experienced people so i can boost my knowledge <br> I’m currently learning languages C++, python <br> Ask me about if you have any quaries
+ I’m currently working on e-cart project<br> I’m looking to collaborate on AIML companies<br> I’m looking for help with the experienced people so i can boost my knowledge <br> I’m currently learning languages C++, python <br> Ask me about if you have any quaries
 
 
 ## 🌐 Socials:
